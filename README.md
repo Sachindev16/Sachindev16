@@ -13,6 +13,12 @@
 * Databricks
 * Airflow
 
+## Work Highlights
+<p float="left">
+  <img src=./documents/demo.gif width="33%" />
+  <img src=./documents/demo.gif width width="33%" />
+</p>
+
 
 ## Learning
 - 🔭 I’m currently working on **Generative AI for CRM Tools**
