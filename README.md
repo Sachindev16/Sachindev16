@@ -15,8 +15,8 @@
 
 ## Work Highlights
 <p float="left">
-  <img src=./documents/demo.gif width="33%" />
-  <img src=./documents/demo.gif width="33%" />
+  <img src="https://github.com/Sachindev16/ChatPDFs/blob/main/documents/demo.gif" width="33%" />
+  <img src="https://github.com/Sachindev16/ChatPDFs/blob/main/documents/demo.gif" width="33%" />
 </p>
 
 
