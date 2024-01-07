@@ -18,7 +18,7 @@
   <img src="https://github.com/Sachindev16/ChatPDFs/blob/main/documents/demo.gif" width="33%" />
   <img src="https://github.com/Sachindev16/ChatPDFs/blob/main/documents/demo.gif" width="33%" />
 </p>
-1.https://github.com/Sachindev16/ChatPDFs .        2.https://github.com/Sachindev16/ChatPDFs
+1.https://github.com/Sachindev16/ChatPDFs ....       2.https://github.com/Sachindev16/ChatPDFs
 
 
 ## Learning
