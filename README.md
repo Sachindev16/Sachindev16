@@ -18,12 +18,8 @@
   <a href="https://github.com/Sachindev16/ChatPDFs"><img src="https://github.com/Sachindev16/ChatPDFs/blob/main/documents/demo.gif" width="33%" /> </a>
   
   &nbsp;
-  <img src="https://github.com/Sachindev16/Data_Pipeline_using_Delta_Live_Tables/blob/main/documents/DLT_demo.gif" height="146" width="33%" padding-right:10px/>
+  <a href="https://github.com/Sachindev16/Data_Pipeline_using_Delta_Live_Tables"><img src="https://github.com/Sachindev16/Data_Pipeline_using_Delta_Live_Tables/blob/main/documents/DLT_demo.gif" height="146" width="33%" padding-right:10px/>
   
-  <a href="https://github.com/Sachindev16/ChatPDFs">Chat PDF</a>
-  &nbsp;   &nbsp; 
-  <a href="https://github.com/Sachindev16/Data_Pipeline_using_Delta_Live_Tables">Data PipeLine Using Delta Live Tables</a>
-
 </div>
 
 ## Learning
