@@ -16,7 +16,7 @@
 ## Work Highlights
 <p float="left">
   <img src="https://github.com/Sachindev16/ChatPDFs/blob/main/documents/demo.gif" width="33%" />
-  <img src="https://github.com/Sachindev16/Data_Pipeline_using_Delta_Live_Tables/blob/main/documents/DLT_demo.gif" height="150" width="33%" padding-right:10px/>
+  <img src="https://github.com/Sachindev16/Data_Pipeline_using_Delta_Live_Tables/blob/main/documents/DLT_demo.gif" height="146" width="33%" padding-right:10px/>
 </p>
 |1.https://github.com/Sachindev16/ChatPDFs ....       |2.https://github.com/Sachindev16/Data_Pipeline_using_Delta_Live_Tables
 
