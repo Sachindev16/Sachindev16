@@ -9,7 +9,7 @@
 * Pyspark
 * AWS
 * Generative AI
-* Macihne learning
+* Machine learning
 * Databricks
 * Airflow
 
